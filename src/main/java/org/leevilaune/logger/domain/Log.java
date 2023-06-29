@@ -1,2 +1,4 @@
-package org.leevilaune.logger.domain;public class Log {
+package org.leevilaune.logger.domain;
+
+public class Log {
 }
